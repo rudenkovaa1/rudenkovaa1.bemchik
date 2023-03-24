@@ -388,6 +388,7 @@ h6 {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+    width: 70px;
   }
   .flex__burger img {
     width: 100%;
